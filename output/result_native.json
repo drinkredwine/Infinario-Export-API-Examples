@@ -1,0 +1,96 @@
+{
+  "column_count": 0,
+  "columns": [],
+  "groupings": {
+    "columns": [],
+    "rows": [
+      {
+        "type": "none"
+      }
+    ]
+  },
+  "name": "30 day revenue by country",
+  "row_count": 11,
+  "rows": [
+    {
+      "data": [
+        2239.370000000001
+      ],
+      "type": "single",
+      "value": "Belgium"
+    },
+    {
+      "data": [
+        31449.89000000003
+      ],
+      "type": "single",
+      "value": "Brazil"
+    },
+    {
+      "data": [
+        16220.680000000017
+      ],
+      "type": "single",
+      "value": "Canada"
+    },
+    {
+      "data": [
+        18861.639999999992
+      ],
+      "type": "single",
+      "value": "France"
+    },
+    {
+      "data": [
+        44407.630000000034
+      ],
+      "type": "single",
+      "value": "Germany"
+    },
+    {
+      "data": [
+        8663.560000000007
+      ],
+      "type": "single",
+      "value": "Great Britain"
+    },
+    {
+      "data": [
+        29396.75000000003
+      ],
+      "type": "single",
+      "value": "India"
+    },
+    {
+      "data": [
+        4146.05
+      ],
+      "type": "single",
+      "value": "Netherlands"
+    },
+    {
+      "data": [
+        6260.260000000001
+      ],
+      "type": "single",
+      "value": "Spain"
+    },
+    {
+      "data": [
+        7662.520000000004
+      ],
+      "type": "single",
+      "value": "Sweden"
+    },
+    {
+      "data": [
+        50639.77999999997
+      ],
+      "type": "single",
+      "value": "United States"
+    }
+  ],
+  "stats": [],
+  "success": true,
+  "valid": true
+}
